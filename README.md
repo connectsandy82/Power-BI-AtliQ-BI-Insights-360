@@ -131,6 +131,9 @@ MySQL database datasets were imported into PowerBI using the provided credential
 - Followed Star Schema & Snowflake data modeling method
 - Poor modeling affects report performance
 
+![Image Description](https://github.com/connectsandy82/Power-BI-AtliQ-BI-Insights-360/raw/main/Data%20Modelling%20.png)
+
+
 ### Dashboard Design
 
 - Based on received mock-ups
@@ -140,14 +143,6 @@ MySQL database datasets were imported into PowerBI using the provided credential
 
 - Central hub for all views
 - Users navigate to specific views by clicking buttons
-
-## Overall Report
-
-![Overall Report.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Overall.gif)
-
-## Info Page
-
-![Info.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Info.gif)
 
 ## Finance View
 
