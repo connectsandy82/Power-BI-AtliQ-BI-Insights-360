@@ -143,28 +143,26 @@ MySQL database datasets were imported into PowerBI using the provided credential
 
 - Central hub for all views
 - Users navigate to specific views by clicking buttons
-
+![Image Description](https://github.com/connectsandy82/Power-BI-AtliQ-BI-Insights-360/blob/main/AtliQ%20BI%20Insights%20360%20-%20Homepage.png)
 ## Finance View
 
-![Finace.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Finace.gif)
+![Finance](https://github.com/connectsandy82/Power-BI-AtliQ-BI-Insights-360/blob/main/AtliQ%20BI%20Insights%20360%20-%20Finance%20View.png)
 
 ## Sales View
 
-![Sales.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Sales.gif)
+![Sales](https://github.com/connectsandy82/Power-BI-AtliQ-BI-Insights-360/blob/main/AtliQ%20BI%20Insights%20360%20-%20Sales%20View.png)
 
 ## Marketing View
 
-![Marketing.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Marketing.gif)
+![Marketing](https://github.com/connectsandy82/Power-BI-AtliQ-BI-Insights-360/blob/main/AtliQ%20BI%20Insights%20360%20-%20Marketing%20View.png)
 
 ## Supply Chain View
 
-![Supply chain.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/supply%20chain.gif)
+![Supply chain](https://github.com/connectsandy82/Power-BI-AtliQ-BI-Insights-360/blob/main/AtliQ%20BI%20Insights%20360%20-%20Supply%20Chain%20View.png)
 
 ## Executive View
 
-![Executive.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Executive.gif)
-
-The full report file can be accessed [here](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Report/360.pbix).
+![Executive](https://github.com/connectsandy82/Power-BI-AtliQ-BI-Insights-360/blob/main/AtliQ%20BI%20Insights%20360%20-%20Executive%20View.png)
 
 ## Project Outcome
 
